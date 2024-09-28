@@ -31,7 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Shukriya Bhayi and Behan </h1>
-   <h1> kal phir milenge </h1>
-  
+   <h1> vartaa maame durrr.... </h1>
+
 </form>
