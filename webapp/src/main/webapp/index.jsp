@@ -32,6 +32,6 @@
   </div>
 
    <h1> Shukriya </h1>
-   <h1> phir milenge </h1>
+   <h1> kal phir milenge </h1>
   
 </form>
