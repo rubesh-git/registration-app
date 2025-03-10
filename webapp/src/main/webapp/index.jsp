@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Comeon Veluu... </h1>
+   <h1> !!! Thankyou !!! Have a nice day !!! </h1>
 
 </form>
